@@ -1,8 +1,11 @@
 # p5_number_display
 Seven-Segment Display about the coding challenge #117 and try to learn some p5 js
 
+
 Digit	Display	gfedcba	abcdefg	a	b	c	d	e	f	g
+---
 0	0	0x3F	0x7E	on	on	on	on	on	on	off
+---
 1	1	0x06	0x30	off	on	on	off	off	off	off
 2	2	0x5B	0x6D	on	on	off	on	on	off	on
 3	3	0x4F	0x79	on	on	on	on	off	off	on
